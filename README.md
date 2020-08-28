@@ -13,7 +13,7 @@
 
 
 ## PyTorchで作るモダンネットワーク（中級編1）
-1.  CNN（データーローダ、データ拡張）
+1.  [CNN（データーローダ、データ拡張）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/11_cnn_pytorch/01_cnn_dataloader_augmentation.ipynb)
 2.  CNNの可視化（CAM）
 3.  ResNet（スキップ構造）
 4.  SENet
@@ -51,7 +51,7 @@
 
 
 ## PyTorchで作る強化学習（中級編4）
-1.  DQN（クリッピング、リプレイ、ターゲットネットワーク）
+1.  DQN（クリッピング・リプレイ・ターゲットネットワーク）
 2.  Policy gradient （DQNの改良）
 3.  Actor-cltic
 4.  Mask-Attention
