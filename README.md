@@ -3,7 +3,7 @@
 
 ## ゼロから理解するDeep Learning（初級編）
 0.  [PythonとNumPy](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/00_python_and_numpy.ipynb)
-1.  最急降下法と確率的勾配降下法
+1.  [最適化（GD, Momentum, AdaGrad, Adam)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/01_optimization.ipynb)
 2.  ニューラルネットワークによる2クラス分類
 3.  ニューラルネットワークによるMNISTデータセットの認識実験
 4.  im2colを用いた効率的な畳み込み処理
