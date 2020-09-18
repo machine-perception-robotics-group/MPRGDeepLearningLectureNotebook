@@ -4,13 +4,14 @@
 ## ゼロから理解するDeep Learning（初級編）
 0.  [PythonプログミングとNumPy](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/00_python_and_numpy.ipynb)
 1.  [最適化（GD, Momentum, AdaGrad, Adam)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/01_optimization.ipynb)
-2.  ニューラルネットワークによる2クラス分類
-3.  ニューラルネットワークによるMNISTデータセットの認識実験
-4.  im2colを用いた効率的な畳み込み処理
-5.  畳み込みニューラルネットワークを用いた画像認識
-6.  L2, L1正則化（CIFAR10を用いた物体認識）
-7.  データ集合の拡張（CIFAR10を用いた物体認識）
-8.  バッチ正規化（CIFAR10を用いた物体認識）
+2.  MLPによる2クラス分類
+3.  ミニバッチを用いたMLPの学習
+4.  MLPによるMNISTデータセットの認識実験
+5.  Batch Normalizationの導入
+6.  正則化(Dropout）
+7.  im2colを用いた効率的な畳み込み処理
+8.  CNNを用いた画像認識
+9.  データ拡張
 
 
 ## PyTorchで作るモダンネットワーク（中級編1）
