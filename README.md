@@ -8,8 +8,8 @@
 3.  [ミニバッチを用いたMLPの学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/03_mlp_bernoulli_minibatch.ipynb)
 4.  [MLPによるMNISTデータセットの認識実験](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/04_mlp_mnist.ipynb)
 5.  Batch Normalizationの導入
-6.  正則化(Dropout）
-7.  im2colを用いた効率的な畳み込み処理
+6.  [正則化（Dropout）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/06_dropout.ipynb)
+7.  [im2colを用いた効率的な畳み込み処理](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/07_im2col.ipynb)
 8.  CNNを用いた画像認識
 9.  データ拡張
 
