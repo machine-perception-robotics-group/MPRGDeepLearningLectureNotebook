@@ -6,7 +6,7 @@
 1.  [最適化（GD, Momentum, AdaGrad, Adam)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/01_optimization.ipynb)
 2.  [MLPによる2クラス分類](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/02_mlp_bernoulli.ipynb)
 3.  [ミニバッチを用いたMLPの学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/03_mlp_bernoulli_minibatch.ipynb)
-4.  MLPによるMNISTデータセットの認識実験
+4.  [MLPによるMNISTデータセットの認識実験](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/04_mlp_mnist.ipynb)
 5.  Batch Normalizationの導入
 6.  正則化(Dropout）
 7.  im2colを用いた効率的な畳み込み処理
