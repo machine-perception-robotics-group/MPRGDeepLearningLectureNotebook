@@ -2,16 +2,16 @@
 
 
 ## ゼロから理解するDeep Learning（初級編）
-0.  [PythonプログミングとNumPy](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/00_python_and_numpy.ipynb)
-1.  [最適化（GD, Momentum, AdaGrad, Adam)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/01_optimization.ipynb)
-2.  [MLPによる2クラス分類](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/02_mlp_bernoulli.ipynb)
-3.  [ミニバッチを用いたMLPの学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/03_mlp_bernoulli_minibatch.ipynb)
-4.  [MLPによるMNISTデータセットの認識実験](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/04_mlp_mnist.ipynb)
-5.  Batch Normalizationの導入
-6.  [正則化（Dropout）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/06_dropout.ipynb)
-7.  [im2colを用いた効率的な畳み込み処理](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/07_im2col.ipynb)
-8.  CNNを用いた画像認識
-9.  データ拡張
+1.  [PythonプログミングとNumPy](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/00_python_and_numpy.ipynb)
+2.  [最適化（GD, Momentum, AdaGrad, Adam)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/01_optimization.ipynb)
+3.  [MLPによる2クラス分類](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/02_mlp_bernoulli.ipynb)
+4.  [ミニバッチを用いたMLPの学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/03_mlp_bernoulli_minibatch.ipynb)
+5.  [MLPによる多クラス分類（MNIST）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/04_mlp_mnist.ipynb)
+6.  Batch Normalizationの導入
+7.  [正則化（Dropout）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/06_dropout.ipynb)
+8.  [im2colを用いた効率的な畳み込み処理](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/07_im2col.ipynb)
+9.  CNNを用いた画像認識
+10.  データ拡張
 
 
 ## PyTorchで作るモダンネットワーク（中級編1）
