@@ -7,7 +7,7 @@
 3.  [MLPによる2クラス分類](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/02_mlp_bernoulli.ipynb)
 4.  [ミニバッチを用いたMLPの学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/03_mlp_bernoulli_minibatch.ipynb)
 5.  [MLPによる多クラス分類（MNIST）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/04_mlp_mnist.ipynb)
-6.  Batch Normalizationの導入
+6.  [Batch Normalizationの導入](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/05_batchnorm.ipynb)
 7.  [正則化（Dropout）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/06_dropout.ipynb)
 8.  [im2colを用いた効率的な畳み込み処理](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/07_im2col.ipynb)
 9.  [CNNを用いた画像認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/08_cnn.ipynb)
