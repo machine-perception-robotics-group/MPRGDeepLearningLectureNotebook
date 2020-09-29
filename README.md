@@ -34,12 +34,12 @@
 
 
 ## PyTorchで作るGAN（中級編2）
-1.  VAE（UMAP）
-2.  GAN
-3.  DCGAN
-4.  Conditional DCGAN
+1.  [VAE（UMAP）](https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/01_Variational_autoencoder.ipynb)
+2.  [GAN](https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/02_GAN.ipynb)
+3.  [DCGAN](https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/03_Deep_Convolutional_GAN.ipynb)
+4.  [Conditional DCGAN](https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/04_conditional_DC_GAN.ipynb)
 5.  CycleGAN（スタイル変換）
-6.  StyleGAN2, BIGGAN
+6.  [StyleGAN2](https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/06_StyleGAN.ipynb), [BigGAN](https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/06_BigGAN.ipynb)
 
 
 ## PyTorchで作る再帰型ネットワーク（中級編3）
