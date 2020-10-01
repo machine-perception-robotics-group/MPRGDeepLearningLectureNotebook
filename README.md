@@ -38,7 +38,7 @@
 2.  [GAN](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/02_GAN.ipynb)
 3.  [DCGAN](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/03_Deep_Convolutional_GAN.ipynb)
 4.  [Conditional DCGAN](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/04_conditional_DC_GAN.ipynb)
-5.  CycleGAN（スタイル変換）
+5.  [CycleGAN（スタイル変換）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/05_CycleGAN.ipynb)
 6.  [StyleGAN](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/06_StyleGAN.ipynb), [BigGAN](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/06_BigGAN.ipynb)
 
 
