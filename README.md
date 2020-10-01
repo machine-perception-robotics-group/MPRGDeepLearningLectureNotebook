@@ -43,9 +43,9 @@
 
 
 ## PyTorchで作る再帰型ネットワーク（中級編3）
-1.  RNN
-2.  LSTMによる電力予測
-3.  GRUによる電力予測
+1.  [RNN](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/01_03_RNN.ipynb)
+2.  [LSTMによる電力予測](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/01_03_RNN.ipynb)
+3.  [GRUによる電力予測](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/01_03_RNN.ipynb)
 4.  LSTMによる文章生成
 5.  Encoder-Decoderによる機械翻訳
 6.  アテンションによる機械翻訳
