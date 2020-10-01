@@ -34,7 +34,7 @@
 
 
 ## PyTorchで作るGAN（中級編2）
-1.  [Variational Autoencoder，UMAPによる特徴ベクトルの次元削減](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/01_Variational_autoencoder.ipynb)
+1.  [Variational Autoencoder (VAE)，UMAPによる特徴ベクトルの次元削減](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/01_Variational_autoencoder.ipynb)
 2.  [Generative Adversarial Networks (GAN)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/02_GAN.ipynb)
 3.  [Deep Convolutional GAN (DC-GAN)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/03_Deep_Convolutional_GAN.ipynb)
 4.  [Conditional DC-GAN](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/04_conditional_DC_GAN.ipynb)
