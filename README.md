@@ -20,7 +20,7 @@
 2.  CNNの可視化（CAM）
 3.  [ResNet（スキップ構造）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/03_resnet.ipynb)
 4.  [SENet](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/04_senet.ipynb)
-5.  Attention Branch Network（ABN）
+5.  [Attention Branch Network（ABN）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/05_abn.ipynb)
 6.  EfficientNet
 7.  Single Shot Object Detector（YOLOv1, SSD）
 8.  簡易版SegNet, LEDnet
