@@ -12,6 +12,7 @@
 8.  [im2colを用いた効率的な畳み込み処理](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/07_im2col.ipynb)
 9.  [CNNを用いた画像認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/08_cnn.ipynb)
 10. [データ拡張](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/09_augmentation.ipynb)
+11. [ハイパーパラメータの探索と検証データ](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/11_parameter_search.ipynb)
 
 
 ## PyTorchで作るモダンネットワーク（中級編1）
