@@ -26,8 +26,8 @@
 8.  簡易版SegNet, LEDnet
 9.  [マルチタスク基礎（分類＋回帰）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/09_multitask_fundamental.ipynb)
 10. マルチタスク応用（検出＋セグメンテーション）
-11. Knowledge Distilation
-12. Deep mutual learning
+11. [Knowledge Distillation](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/10_knowledge_distillation.ipynb)
+12. [Deep Mutual Learning](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/11_deep_mutual_learning.ipynb)
 13. 半教師付き学習
 14. 自己教師付き学習
 15. 弱教師付き学習
