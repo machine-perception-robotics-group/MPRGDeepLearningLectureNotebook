@@ -23,7 +23,7 @@
 5.  [Attention Branch Network（ABN）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/05_abn.ipynb)
 6.  EfficientNet
 7.  Single Shot Object Detector（YOLOv1, SSD）
-8.  簡易版SegNet, LEDnet
+8.  [SegNet](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/08_segnet.ipynb)
 9.  [マルチタスク基礎（分類＋回帰）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/09_multitask_fundamental.ipynb)
 10. マルチタスク応用（検出＋セグメンテーション）
 11. [Knowledge Distillation](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/10_knowledge_distillation.ipynb)
