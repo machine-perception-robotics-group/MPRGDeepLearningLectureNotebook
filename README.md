@@ -53,9 +53,9 @@
 
 
 ## PyTorchで作る強化学習（中級編4）
-1.  DQN（クリッピング・リプレイ・ターゲットネットワーク）
+1.  [DQN（クリッピング・リプレイ・ターゲットネットワーク）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/14_rl/01_Deep_Q_Network.ipynb)
 2.  Policy gradient （DQNの改良）
-3.  Actor-cltic
+3.  [Actor-cltic](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/14_rl/03_Actor_Critic.ipynb)
 4.  Mask-Attention
 
 
