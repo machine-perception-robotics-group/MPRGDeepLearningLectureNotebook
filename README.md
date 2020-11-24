@@ -11,8 +11,8 @@
 7.  [Batch Normalizationの導入](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/07_batchnorm.ipynb)
 8.  [im2colを用いた効率的な畳み込み処理](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/08_im2col.ipynb)
 9.  [CNNを用いた画像認識（MNIST）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/09_cnn_mnist.ipynb)
-10. [PyTorchを用いたCNNによる画像認識（GPU）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/10_cnn_pytorch.ipynb)
-10. [データ拡張](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/11_augmentation.ipynb)
+10. [GPUを用いたCNNによる画像認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/10_cnn_pytorch.ipynb)
+10. [データ拡張（Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/11_augmentation.ipynb)
 11. [ハイパーパラメータの探索と検証データ](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/12_parameter_search.ipynb)
 
 
