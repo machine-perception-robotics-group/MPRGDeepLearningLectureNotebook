@@ -18,7 +18,8 @@
 
 ## PyTorchで作るモダンネットワーク（中級編1）
 1.  [CNN（データーローダ、データ拡張）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/01_cnn_dataloader_augmentation.ipynb)
-2.  CNNの可視化（CAM）
+2.  [CNNの可視化（CAM）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/02_cam.ipynb)
+2.5.  [CNNの可視化（Grad-CAM）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/02_5_grad_cam.ipynb)
 3.  [ResNet（スキップ構造）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/03_resnet.ipynb)
 4.  [SENet](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/04_senet.ipynb)
 5.  [Attention Branch Network（ABN）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/05_abn.ipynb)
