@@ -48,7 +48,7 @@
 1.  [RNN (LSTM, GRU)による電力予測](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/01_03_RNN.ipynb)
 2.  [Encoder-Decoderによる計算機作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/04_Seq2seq.ipynb)
 3.  [Attention機構による日付変換](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/05_Attention.ipynb)
-4.  [Convolutional LSTMを用いた動画予測](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/06_ConvLSTM.ipynb)
+4.  [Convolutional LSTMを用いた動画像予測](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/06_ConvLSTM.ipynb)
 
 
 ## PyTorchで作る強化学習（中級編4）
