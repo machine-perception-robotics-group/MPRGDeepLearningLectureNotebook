@@ -60,6 +60,6 @@
 ## PyTorchで作るGCN（中級編5）
 1.  [グラフ表現](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/01_graph.ipynb)
 2.  [GCNによるノード分類](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/02_node_classification_GCN.ipynb)
-3.  [ST-GCNによる動作認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/03_action_recognition_ST-GCN.ipynb)
+3.  [ST-GCNによる動作認識](https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/03_action_recognition_ST_GCN.ipynb)
 4.  [STA-GCNによる動作認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/04_action_recognition_STA-GCN.ipynb)
 5.  [グラフ生成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/05_graph_generation_DGMG.ipynb)
