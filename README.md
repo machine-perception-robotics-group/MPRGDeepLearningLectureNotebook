@@ -1,8 +1,14 @@
 # MPRG Deep Learning Lecture Notebook
 
+## Google Colaboratory・Pythonの使い方（チュートリアル編）
+
+1. [Google Colaboratoryの動作確認](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_tutorial/operation_check.ipynb)
+2. [PythonプログミングとNumPy](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_tutorial/python_and_numpy.ipynb)
+3. [グラフを描画する](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_tutorial/draw_graph.ipynb)
+
 ## ゼロから理解するDeep Learning（初級編1）
 
-1.  [PythonプログミングとNumPy](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/python_and_numpy.ipynb)
+<!-- 1.  [PythonプログミングとNumPy](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/python_and_numpy.ipynb) -->
 2.  [最適化（GD, Momentum, AdaGrad, Adam)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/optimization.ipynb)
 3.  [単純パーセプトロンによるAND回路の作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/Perceptron_AND.ipynb)
 4.  [MLPによるXOR回路の作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/MLP_XOR.ipynb)
