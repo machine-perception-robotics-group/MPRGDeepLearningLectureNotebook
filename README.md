@@ -8,17 +8,16 @@
 
 ## ゼロから理解するDeep Learning（初級編1）
 
-<!-- 1.  [PythonプログミングとNumPy](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/python_and_numpy.ipynb) -->
-2.  [最適化（GD, Momentum, AdaGrad, Adam)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/optimization.ipynb)
-3.  [単純パーセプトロンによるAND回路の作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/Perceptron_AND.ipynb)
-4.  [MLPによるXOR回路の作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/MLP_XOR.ipynb)
-5.  [MLPによる2クラス分類](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/mlp_bernoulli.ipynb)
-6.  [ミニバッチを用いたMLPの学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/mlp_bernoulli_minibatch.ipynb)
-7.  [MLPによる多クラス分類（MNIST）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/mlp_mnist.ipynb)
-8.  [正則化（Dropout）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/dropout.ipynb)
-9.  [Batch Normalizationの導入](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/batchnorm.ipynb)
-10.  [im2colを用いた効率的な畳み込み処理](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/im2col.ipynb)
-11.  [CNNによる画像認識（CIFAR10, Numpy実装）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/cnn_mnist.ipynb)
+1.  [最適化（GD, Momentum, AdaGrad, Adam)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/optimization.ipynb)
+2.  [単純パーセプトロンによるAND回路の作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/Perceptron_AND.ipynb)
+3.  [MLPによるXOR回路の作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/MLP_XOR.ipynb)
+4.  [MLPによる2クラス分類](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/mlp_bernoulli.ipynb)
+5.  [ミニバッチを用いたMLPの学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/mlp_bernoulli_minibatch.ipynb)
+6.  [MLPによる多クラス分類（MNIST）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/mlp_mnist.ipynb)
+7.  [正則化（Dropout）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/dropout.ipynb)
+8.  [Batch Normalizationの導入](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/batchnorm.ipynb)
+9.   [im2colを用いた効率的な畳み込み処理](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/im2col.ipynb)
+10.  [CNNによる画像認識（CIFAR10, Numpy実装）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/cnn_mnist.ipynb)
 
 ## PyTorchで作るシンプルネットワーク（初級編2）
 
@@ -48,6 +47,7 @@
 
 ## PyTorchで作るGAN（中級編2）
 
+1.  [Auto Encoderによる画像の復元とデノイジング](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/autoencoder.ipynb)
 1.  [Variational Autoencoder (VAE)，UMAPによる特徴ベクトルの次元削減](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/01_Variational_autoencoder.ipynb)
 2.  [Generative Adversarial Networks (GAN)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/02_GAN.ipynb)
 3.  [Deep Convolutional GAN (DC-GAN)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/03_Deep_Convolutional_GAN.ipynb)
