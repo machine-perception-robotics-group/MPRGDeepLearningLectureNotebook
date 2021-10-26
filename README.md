@@ -1,24 +1,28 @@
 # MPRG Deep Learning Lecture Notebook
 
+## ゼロから理解するDeep Learning（初級編1）
 
-## ゼロから理解するDeep Learning（初級編）
-1.  [PythonプログミングとNumPy](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/01_python_and_numpy.ipynb)
-2.  [最適化（GD, Momentum, AdaGrad, Adam)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/02_optimization.ipynb)
+1.  [PythonプログミングとNumPy](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/python_and_numpy.ipynb)
+2.  [最適化（GD, Momentum, AdaGrad, Adam)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/optimization.ipynb)
 3.  [単純パーセプトロンによるAND回路の作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/Perceptron_AND.ipynb)
 4.  [MLPによるXOR回路の作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/MLP_XOR.ipynb)
-5.  [MLPによる2クラス分類](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/03_mlp_bernoulli.ipynb)
-6.  [ミニバッチを用いたMLPの学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/04_mlp_bernoulli_minibatch.ipynb)
-7.  [MLPによる多クラス分類（MNIST）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/05_mlp_mnist.ipynb)
-8.  [正則化（Dropout）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/06_dropout.ipynb)
-9.  [Batch Normalizationの導入](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/07_batchnorm.ipynb)
-10.  [im2colを用いた効率的な畳み込み処理](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/08_im2col.ipynb)
-11.  [CNNを用いた画像認識（MNIST）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/09_cnn_mnist.ipynb)
-12. [GPUを用いたCNNによる画像認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/10_cnn_pytorch.ipynb)
-13. [データ拡張（Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/11_augmentation.ipynb)
-14. [ハイパーパラメータの探索と検証データ](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/12_parameter_search.ipynb)
+5.  [MLPによる2クラス分類](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/mlp_bernoulli.ipynb)
+6.  [ミニバッチを用いたMLPの学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/mlp_bernoulli_minibatch.ipynb)
+7.  [MLPによる多クラス分類（MNIST）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/mlp_mnist.ipynb)
+8.  [正則化（Dropout）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/dropout.ipynb)
+9.  [Batch Normalizationの導入](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/batchnorm.ipynb)
+10.  [im2colを用いた効率的な畳み込み処理](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/im2col.ipynb)
+11.  [CNNを用いた画像認識（MNIST）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/cnn_mnist.ipynb)
+
+## PyTorchで作るシンプルネットワーク（初級編2）
+
+1.  [GPUを用いたCNNによる画像認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/10_cnn_pytorch.ipynb)
+2.  [データ拡張（Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/11_augmentation.ipynb)
+3.  [ハイパーパラメータの探索と検証データ](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/12_parameter_search.ipynb)
 
 
 ## PyTorchで作るモダンネットワーク（中級編1）
+
 1.  [CNN（データーローダ、データ拡張）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/01_cnn_dataloader_augmentation.ipynb)
 2.  [CNNの可視化（CAM）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/02_cam.ipynb)
 2.5.  [CNNの可視化（Grad-CAM）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/02_5_grad_cam.ipynb)
@@ -35,8 +39,8 @@
 13. [半教師付き学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/13_semi_supervised_learning.ipynb)
 14. [自己教師付き学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/14_self_supervised_learning.ipynb)
 
-
 ## PyTorchで作るGAN（中級編2）
+
 1.  [Variational Autoencoder (VAE)，UMAPによる特徴ベクトルの次元削減](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/01_Variational_autoencoder.ipynb)
 2.  [Generative Adversarial Networks (GAN)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/02_GAN.ipynb)
 3.  [Deep Convolutional GAN (DC-GAN)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/03_Deep_Convolutional_GAN.ipynb)
@@ -44,8 +48,8 @@
 5.  [CycleGAN（スタイル変換）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/05_CycleGAN.ipynb)
 6.  [StyleGAN](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/06_StyleGAN.ipynb), [BigGAN](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/06_BigGAN.ipynb)
 
-
 ## PyTorchで作る再帰型ネットワーク（中級編3）
+
 1.  [RNN (LSTM, GRU)による電力予測](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/01_03_RNN.ipynb)
 2.  [Encoder-Decoderによる計算機作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/04_Seq2seq.ipynb)
 3.  [Attention Seq2seqによる計算機作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/05_Attention.ipynb)
@@ -53,16 +57,16 @@
 5.  [Transformerによる計算機作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/06_Transformer.ipynb)
 4.  [Convolutional LSTMを用いた動画像予測](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/07_ConvLSTM.ipynb)
 
-
 ## PyTorchで作る強化学習（中級編4）
+
 1.  [Q学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/14_rl/00_Q_Learning.ipynb)
 1.  [DQN（クリッピング・リプレイ・ターゲットネットワーク）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/14_rl/01_Deep_Q_Network.ipynb)
 2.  [Policy gradient （DQNの改良）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/14_rl/02_Policy_gradient.ipynb)
 3.  [Actor-cltic](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/14_rl/03_Actor_Critic.ipynb)
 4.  [Mask-Attention ](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/14_rl/04_Mask_Attention.ipynb)
 
-
 ## PyTorchで作るGCN（中級編5）
+
 1.  [グラフ表現](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/01_graph.ipynb)
 2.  [GCNによるノード分類](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/02_node_classification_GCN.ipynb)
 3.  [ST-GCNによる動作認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/03_action_recognition_ST_GCN.ipynb)
