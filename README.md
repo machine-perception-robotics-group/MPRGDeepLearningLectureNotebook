@@ -12,15 +12,16 @@
 8.  [正則化（Dropout）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/dropout.ipynb)
 9.  [Batch Normalizationの導入](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/batchnorm.ipynb)
 10.  [im2colを用いた効率的な畳み込み処理](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/im2col.ipynb)
-11.  [CNNによる画像認識（MNIST, Numpy実装）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/cnn_mnist.ipynb)
+11.  [CNNによる画像認識（CIFAR10, Numpy実装）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/cnn_mnist.ipynb)
 
 ## PyTorchで作るシンプルネットワーク（初級編2）
 
 1.  [MLPによる画像認識（MNIST, PyTorch実装）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/MNIST_MLP.ipynb)
 2.  [CNNによる画像認識（MNIST, PyTorch実装）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/MNIST_CNN.ipynb)
-3.  [データセットクラスの作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/dataloader.ipynb)
-4.  [データ拡張（Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/augmentation.ipynb)
-5.  [ハイパーパラメータの探索と検証データ](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/parameter_search.ipynb)
+3.  [CNNによる画像認識（CIFAR10, PyTorch実装）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/CIFAR_CNN.ipynb)
+4.  [データセットクラスの作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/dataloader.ipynb)
+5.  [データ拡張（Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/augmentation.ipynb)
+6.  [ハイパーパラメータの探索と検証データ](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/parameter_search.ipynb)
 
 <!-- 1.  [GPUを用いたCNNによる画像認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/cnn_pytorch.ipynb) -->
 
