@@ -71,3 +71,13 @@
 3.  [ST-GCNによる動作認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/03_action_recognition_ST_GCN.ipynb)
 4.  [STA-GCNによる動作認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/04_action_recognition_STA-GCN.ipynb)
 5.  [グラフ生成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/05_graph_generation_DGMG.ipynb)
+
+## 機械学習の基礎（その他）
+
+1. [ユークリッド距離を用いたクラス識別](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/clf_euc_dist.ipynb)
+2. [マハラノビス距離を用いたクラス識別](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/clf_mahal_dist.ipynb)
+3. [k最近傍法による教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/kNN.ipynb)
+4. [線形SVMによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/linear_svm.ipynb)
+5. [非線形SVMによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/nonliear_svm.ipynb)
+6. [AdaBoostによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/adaboost.ipynb)
+7. [RandomForestによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/random_forest.ipynb)
