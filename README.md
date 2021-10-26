@@ -23,8 +23,6 @@
 5.  [データ拡張（Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/augmentation.ipynb)
 6.  [ハイパーパラメータの探索と検証データ](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/parameter_search.ipynb)
 
-<!-- 1.  [GPUを用いたCNNによる画像認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/cnn_pytorch.ipynb) -->
-
 ## PyTorchで作るモダンネットワーク（中級編1）
 
 1.  [Residual Network（ResNet, スキップ構造）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/03_resnet.ipynb)
@@ -54,7 +52,7 @@
 ## PyTorchで作る再帰型ネットワーク（中級編3）
 
 1.  [RNN (LSTM, GRU)による電力予測](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/01_03_RNN.ipynb)
-2.  [Encoder-Decoderによる計算機作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/04_Seq2seq.ipynb)
+2.  [Encoder-Decoderによる計算機作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/seq2seq.ipynb)
 3.  [Attention Seq2seqによる計算機作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/05_Attention.ipynb)
 4.  [Attention Seq2seqによる日付変換](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/05_Attention_alpha.ipynb)
 5.  [Transformerによる計算機作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/06_Transformer.ipynb)
