@@ -24,7 +24,7 @@
 1.  [MLPによる画像認識（MNIST, PyTorch実装）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/MNIST_MLP.ipynb)
 2.  [CNNによる画像認識（MNIST, PyTorch実装）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/MNIST_CNN.ipynb)
 3.  [CNNによる画像認識（CIFAR10, PyTorch実装）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/CIFAR_CNN.ipynb)
-4.  [データセットクラスの作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/dataloader.ipynb)
+4.  [データセットクラスの作成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/dataloader.ipynb)
 5.  [データ拡張（Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/augmentation.ipynb)
 6.  [ハイパーパラメータの探索と検証データ](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/02_dnn_simple_pytorch/parameter_search.ipynb)
 
