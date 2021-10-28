@@ -17,7 +17,7 @@
 7.  [正則化（Dropout）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/dropout.ipynb)
 8.  [Batch Normalizationの導入](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/batchnorm.ipynb)
 9.   [im2colを用いた効率的な畳み込み処理](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/im2col.ipynb)
-10.  [CNNによる画像認識（CIFAR10, Numpy実装）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/cnn_mnist.ipynb)
+10.  [CNNによる画像認識（MNIST, Numpy実装）](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/01_dnn_scratch/cnn_mnist.ipynb)
 
 ## PyTorchで作るシンプルネットワーク（初級編2）
 
