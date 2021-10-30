@@ -4,7 +4,6 @@
 
 1. [Google Colaboratoryの動作確認](00_tutorial/operation_check.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_tutorial/operation_check.ipynb)
 2. [PythonプログミングとNumPy](00_tutorial/python_and_numpy.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_tutorial/python_and_numpy.ipynb)
-3. [グラフを描画する](00_tutorial/draw_graph.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_tutorial/draw_graph.ipynb)
 
 ## ゼロから理解するDeep Learning（初級編1）
 
@@ -83,10 +82,11 @@
 
 ## 機械学習の基礎（その他）
 
-1. [ユークリッド距離を用いたクラス識別](00_no_deep_ml/clf_euc_dist.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/clf_euc_dist.ipynb)
-2. [マハラノビス距離を用いたクラス識別](00_no_deep_ml/clf_mahal_dist.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/clf_mahal_dist.ipynb)
-3. [k最近傍法による教師あり学習](00_no_deep_ml/kNN.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/kNN.ipynb)
-4. [線形SVMによる教師あり学習](00_no_deep_ml/linear_svm.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/linear_svm.ipynb)
-5. [非線形SVMによる教師あり学習](00_no_deep_ml/nonliear_svm.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/nonliear_svm.ipynb)
-6. [AdaBoostによる教師あり学習](00_no_deep_ml/adaboost.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/adaboost.ipynb)
-7. [RandomForestによる教師あり学習](00_no_deep_ml/random_forest.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/random_forest.ipynb)
+1. [グラフを描画する](00_no_deep_ml/draw_graph.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/draw_graph.ipynb)
+2. [ユークリッド距離を用いたクラス識別](00_no_deep_ml/clf_euc_dist.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/clf_euc_dist.ipynb)
+3. [マハラノビス距離を用いたクラス識別](00_no_deep_ml/clf_mahal_dist.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/clf_mahal_dist.ipynb)
+4. [k最近傍法による教師あり学習](00_no_deep_ml/kNN.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/kNN.ipynb)
+5. [線形SVMによる教師あり学習](00_no_deep_ml/linear_svm.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/linear_svm.ipynb)
+6. [非線形SVMによる教師あり学習](00_no_deep_ml/nonliear_svm.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/nonliear_svm.ipynb)
+7.  [AdaBoostによる教師あり学習](00_no_deep_ml/adaboost.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/adaboost.ipynb)
+8.  [RandomForestによる教師あり学習](00_no_deep_ml/random_forest.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/random_forest.ipynb)
