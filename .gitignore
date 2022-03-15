@@ -12,3 +12,8 @@ others/
 12_gan/data/MNIST/processed/
 12_gan/data/MNIST/raw/
 12_gan/DenoiseMNIST/
+12_gan/checkpoint/
+12_gan/mvtec_anomaly_detection/
+12_gan/snapshot-mvtec/
+
+
