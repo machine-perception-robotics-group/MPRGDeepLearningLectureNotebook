@@ -7,3 +7,8 @@ others/
 02_dnn_simple_pytorch/cifar-100-python.tar.gz
 02_dnn_simple_pytorch/cifar-10-batches-py/
 02_dnn_simple_pytorch/cifar-100-python/
+
+
+12_gan/data/MNIST/processed/
+12_gan/data/MNIST/raw/
+12_gan/DenoiseMNIST/
