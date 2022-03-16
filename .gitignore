@@ -15,5 +15,6 @@ others/
 12_gan/checkpoint/
 12_gan/mvtec_anomaly_detection/
 12_gan/snapshot-mvtec/
+12_gan/snapshot-mnist/
 
 
