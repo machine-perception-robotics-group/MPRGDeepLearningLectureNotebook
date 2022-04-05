@@ -94,3 +94,5 @@
 6. [非線形SVMによる教師あり学習](00_no_deep_ml/nonliear_svm.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/nonliear_svm.ipynb)
 7.  [AdaBoostによる教師あり学習](00_no_deep_ml/adaboost.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/adaboost.ipynb)
 8.  [RandomForestによる教師あり学習](00_no_deep_ml/random_forest.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/random_forest.ipynb)
+9.  [マテリアルズインフォマティクス](00_no_deep_ml/materials_info.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/materials_info.ipynb)
+
