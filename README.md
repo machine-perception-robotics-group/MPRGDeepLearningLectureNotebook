@@ -63,7 +63,7 @@
 ## PyTorchで作る再帰型ネットワーク（中級編3）
 
 1.  [Recurrent Neural Networkによる電力予測](13_rnn/01_03_RNN.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/01_03_RNN.ipynb)
-2.  [Encoder-Decoderによる計算機作成](13_rnn/04_Seq2Seq.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/04_Seq2Seq.ipynb)
+2.  [Encoder-Decoderによる計算機作成](13_rnn/seq2seq.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/seq2seq.ipynb)
 3.  [Attention Seq2seqによる計算機作成](13_rnn/05_Attention.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/05_Attention.ipynb)
 4.  [Attention Seq2seqによる日付変換](13_rnn/05_Attention_alpha.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/05_Attention_alpha.ipynb)
 5.  [Transformerによる計算機作成](13_rnn/06_Transformer.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/06_Transformer.ipynb)
