@@ -97,3 +97,7 @@
 8.  [RandomForestによる教師あり学習](00_no_deep_ml/random_forest.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/random_forest.ipynb)
 9.  [マテリアルズインフォマティクス](00_no_deep_ml/materials_info.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/materials_info.ipynb)
 
+## プログラム練習帳（その他）
+
+1. [プログラム練習帳：画像認識](20_workbook/ProgramWorkBook_ImageClassfication.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/20_workbook/ProgramWorkBook_ImageClassfication.ipynb)
+2. [プログラム練習帳：CSVファイル](20_workbook/ProgramWorkBook_CSVFile.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/20_workbook/ProgramWorkBook_CSVFile.ipynb)
