@@ -85,6 +85,13 @@
 4.  [STA-GCNによる動作認識](15_gcn/04_action_recognition_STA-GCN.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/04_action_recognition_STA-GCN.ipynb)
 5.  [グラフ生成](15_gcn/05_graph_generation_DGMG.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/05_graph_generation_DGMG.ipynb)
 
+## PyTorchで作るViT（中級編6）
+
+1. [ViTの教師あり学習（フルスクラッチ・fine-tuning）](16_vit/01_vit.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/01_vit.ipynb)
+2. Attention Weightの可視化
+3. DeiT
+4. MAE
+
 ## 機械学習の基礎（その他）
 
 1. [グラフを描画する](00_no_deep_ml/draw_graph.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/00_no_deep_ml/draw_graph.ipynb)
