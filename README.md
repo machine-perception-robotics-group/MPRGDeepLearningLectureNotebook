@@ -90,7 +90,7 @@
 1. [ViTの教師あり学習（フルスクラッチ・fine-tuning）](16_vit/01_vit.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/01_vit.ipynb)
 2. Attention Weightの可視化
 3. DeiT
-4. MAE
+4. [MAE](16_vit/02_mae.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/02_mae.ipynb)
 
 ## 機械学習の基礎（その他）
 
