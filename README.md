@@ -76,6 +76,7 @@
 3.  [Policy gradient （DQNの改良）](14_rl/02_Policy_gradient.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/14_rl/02_Policy_gradient.ipynb)
 4.  [Actor-cltic](14_rl/03_Actor_Critic.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/14_rl/03_Actor_Critic.ipynb)
 5.  [Mask-Attention ](14_rl/04_Mask_Attention.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/14_rl/04_Mask_Attention.ipynb)
+6.  [DQNの応用例](14_rl/05_Deep_Q_Network_application.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/14_rl/05_Deep_Q_Network_application.ipynb)
 
 ## PyTorchで作るGCN（中級編5）
 
