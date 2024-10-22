@@ -65,6 +65,8 @@
 8.  [CycleGAN（スタイル変換）](12_gan/cycle_gan.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/cycle_gan.ipynb)
 9.  [BigGAN](12_gan/big_gan.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/big_gan.ipynb)
 10.  [StyleGAN](12_gan/style_gan.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/style_gan.ipynb)
+11.  [Denoising Diffusion Probabilistic Model](12_gan/denoising_diffusion_probabilistic_model.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/denoising_diffusion_probabilistic_model.ipynb)
+12.  [Latent Diffusion Model](12_gan/latent_diffusion_model.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/12_gan/latent_diffusion_model.ipynb)
 
 ### 中級3：PyTorchで作る再帰型ネットワーク
 
