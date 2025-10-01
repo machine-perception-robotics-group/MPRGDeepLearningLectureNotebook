@@ -98,10 +98,8 @@
 ### 中級6：PyTorchで作るVision Transformer (ViT)
 
 1. [ViTの教師あり学習（フルスクラッチ・fine-tuning）](16_vit/01_vit.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/01_vit.ipynb)
-2. Attention Weightの可視化
-3. DeiT
-4. [MAE](16_vit/04_mae.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/04_mae.ipynb)
-5. [CLIP](16_vit/05_clip.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/05_clip.ipynb)
+2. [MAE](16_vit/02_mae.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/02_mae.ipynb)
+3. [CLIP](16_vit/03_clip.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/03_clip.ipynb)
 
 ## その他
 
