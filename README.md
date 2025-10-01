@@ -101,6 +101,7 @@
 2. Attention Weightの可視化
 3. DeiT
 4. [MAE](16_vit/04_mae.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/04_mae.ipynb)
+5. [CLIP](16_vit/05_clip.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/05_clip.ipynb)
 
 ## その他
 
