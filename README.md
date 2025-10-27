@@ -52,6 +52,7 @@
 13. [Deep Mutual Learning](11_cnn_pytorch/11_deep_mutual_learning.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/11_deep_mutual_learning.ipynb)
 14. [半教師付き学習](11_cnn_pytorch/13_semi_supervised_learning.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/13_semi_supervised_learning.ipynb)
 15. [自己教師付き学習](11_cnn_pytorch/14_self_supervised_learning.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/14_self_supervised_learning.ipynb)
+16. [枝刈り](11_cnn_pytorch/15_pruning.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/11_cnn_pytorch/15_pruning.ipynb)
 
 ### 中級2：PyTorchで作る深層生成モデル
 
