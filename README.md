@@ -99,10 +99,10 @@
 
 ### 中級6：PyTorchで作るVision Transformer (ViT)
 
-1. [ViTの教師あり学習（フルスクラッチ・fine-tuning）](16_vit/01_vit.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/01_vit.ipynb)
-2. [MAE](16_vit/02_mae.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/02_mae.ipynb)
-3. [CLIPによる画像のゼロショットクラス分類](16_vit/03_clip.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/03_clip.ipynb)
-4. [CLIPと言語モデルを組み合わせたMLLM](16_vit/04_mllm.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/16_vit/04_mllm.ipynb)
+1. [ViTの教師あり学習（フルスクラッチ・fine-tuning）](17_vit/01_vit.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/17_vit/01_vit.ipynb)
+2. [MAE](17_vit/02_mae.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/17_vit/02_mae.ipynb)
+3. [CLIPによる画像のゼロショットクラス分類](17_vit/03_clip.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/17_vit/03_clip.ipynb)
+4. [CLIPと言語モデルを組み合わせたMLLM](17_vit/04_mllm.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/17_vit/04_mllm.ipynb)
 
 ## その他
 
