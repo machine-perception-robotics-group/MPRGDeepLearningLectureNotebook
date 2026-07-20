@@ -1,3 +1,9 @@
+### claude code
+.claude/
+
+### containers
+containers/docker/.env
+
 others/
 
 02_dnn_simple_pytorch/data/

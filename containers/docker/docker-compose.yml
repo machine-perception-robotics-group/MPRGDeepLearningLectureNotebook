@@ -1,0 +1,55 @@
+name: lecturenotebook
+
+services:
+  lecturenotebook:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: base
+    image: hirakawat/lecturenotebook:v2
+    container_name: lecturenotebook
+    hostname: lecturenotebook
+    user: "${DOCKER_UID:-1000}:${DOCKER_GID:-1000}"
+    ipc: host
+    tty: true
+    stdin_open: true
+    ports:
+      - "10283:8888"  # jupyter
+      - "6006:6006"   # tensorboard
+    volumes:
+      - ${HOME}/MPRGDeepLearningLectureNotebook:/workspace
+    working_dir: /workspace
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+  lecturenotebook-claude:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: claude
+    image: hirakawat/lecturenotebook-claude:v2
+    container_name: lecturenotebook-claude
+    hostname: lecturenotebook-claude
+    user: "${DOCKER_UID:-1000}:${DOCKER_GID:-1000}"
+    ipc: host
+    tty: true
+    stdin_open: true
+    ports:
+      - "10284:8888"  # jupyter
+      - "6007:6006"   # tensorboard
+    volumes:
+      - ${HOME}/MPRGDeepLearningLectureNotebook:/workspace
+      - ${HOME}/.claude:/home/dockeruser/.claude
+    working_dir: /workspace
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
