@@ -1,5 +1,6 @@
 ### claude code
 .claude/
+CLAUDE.md
 
 ### containers
 containers/docker/.env
