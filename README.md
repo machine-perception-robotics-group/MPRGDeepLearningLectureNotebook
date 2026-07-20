@@ -172,22 +172,22 @@
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
-| 1 | [グラフを描画する](00_no_deep_ml/draw_graph.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/00_no_deep_ml/draw_graph.ipynb) |
-| 2 | [ユークリッド距離を用いたクラス識別](00_no_deep_ml/clf_euc_dist.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/00_no_deep_ml/clf_euc_dist.ipynb) |
-| 3 | [マハラノビス距離を用いたクラス識別](00_no_deep_ml/clf_mahal_dist.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/00_no_deep_ml/clf_mahal_dist.ipynb) |
-| 4 | [k最近傍法による教師あり学習](00_no_deep_ml/kNN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/00_no_deep_ml/kNN.ipynb) |
-| 5 | [線形SVMによる教師あり学習](00_no_deep_ml/linear_svm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/00_no_deep_ml/linear_svm.ipynb) |
-| 6 | [非線形SVMによる教師あり学習](00_no_deep_ml/nonliear_svm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/00_no_deep_ml/nonliear_svm.ipynb) |
-| 7 | [AdaBoostによる教師あり学習](00_no_deep_ml/adaboost.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/00_no_deep_ml/adaboost.ipynb) |
-| 8 | [RandomForestによる教師あり学習](00_no_deep_ml/random_forest.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/00_no_deep_ml/random_forest.ipynb) |
-| 9 | [マテリアルズインフォマティクス](00_no_deep_ml/materials_info.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/00_no_deep_ml/materials_info.ipynb) |
+| 1 | [グラフを描画する](80_classical_ml/draw_graph.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/80_classical_ml/draw_graph.ipynb) |
+| 2 | [ユークリッド距離を用いたクラス識別](80_classical_ml/clf_euc_dist.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/80_classical_ml/clf_euc_dist.ipynb) |
+| 3 | [マハラノビス距離を用いたクラス識別](80_classical_ml/clf_mahal_dist.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/80_classical_ml/clf_mahal_dist.ipynb) |
+| 4 | [k最近傍法による教師あり学習](80_classical_ml/kNN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/80_classical_ml/kNN.ipynb) |
+| 5 | [線形SVMによる教師あり学習](80_classical_ml/linear_svm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/80_classical_ml/linear_svm.ipynb) |
+| 6 | [非線形SVMによる教師あり学習](80_classical_ml/nonliear_svm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/80_classical_ml/nonliear_svm.ipynb) |
+| 7 | [AdaBoostによる教師あり学習](80_classical_ml/adaboost.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/80_classical_ml/adaboost.ipynb) |
+| 8 | [RandomForestによる教師あり学習](80_classical_ml/random_forest.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/80_classical_ml/random_forest.ipynb) |
+| 9 | [マテリアルズインフォマティクス](80_classical_ml/materials_info.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/80_classical_ml/materials_info.ipynb) |
 
 ### プログラム練習帳
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
-| 1 | [プログラム練習帳：画像認識](20_workbook/ProgramWorkBook_ImageClassfication.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/20_workbook/ProgramWorkBook_ImageClassfication.ipynb) |
-| 2 | [プログラム練習帳：CSVファイル](20_workbook/ProgramWorkBook_CSVFile.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/20_workbook/ProgramWorkBook_CSVFile.ipynb) |
+| 1 | [プログラム練習帳：画像認識](81_workbook/ProgramWorkBook_ImageClassfication.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/81_workbook/ProgramWorkBook_ImageClassfication.ipynb) |
+| 2 | [プログラム練習帳：CSVファイル](81_workbook/ProgramWorkBook_CSVFile.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/81_workbook/ProgramWorkBook_CSVFile.ipynb) |
 
 ---
 
