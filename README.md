@@ -2,7 +2,7 @@
 
 # MPRG Deep Learning Lecture Notebook
 
-**画像認識・深層学習を基礎から学ぶための Jupyter Notebook 教材集**
+**画像認識・深層学習を基礎から学ぶための Jupyter Notebook 集**
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -14,7 +14,7 @@
 
 ## 概要
 
-本リポジトリは，MPRG（中部大学 machine perception & robotics group）が公開する [MPRG Deep Learning Lecture Notebook](https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook) をベースに，画像認識・深層学習を実践的に学ぶための Jupyter Notebook 教材をアップデートしているプロジェクトです．
+本リポジトリは，中部大学 MPRG (Machine Perception & Robotics Group) が公開している画像認識・深層学習を実践的に学ぶための Jupyter Notebook コレクションです．
 
 各ノートブックは以下の2通りの方法で実行できます．
 
@@ -44,6 +44,8 @@
 ## Python チュートリアル
 
 ### Google Colaboratory・Pythonの使い方
+
+ノートブックのプログラムを実行する際に使用するGoogle Colaboratoryや，Python, Numpy, PyTorchなどのプログラミングに関する基本的な使い方をまとめたノートブックです．
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
@@ -191,6 +193,6 @@
 
 <div align="center">
 
-本教材は [MPRG Deep Learning Lecture Notebook](https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook) を元に更新を行っています．
+© 2026 Machine Perception and Robotics Group, Chubu University. All rights reserved.
 
 </div>
