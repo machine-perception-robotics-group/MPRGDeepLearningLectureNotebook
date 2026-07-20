@@ -5,6 +5,8 @@ CLAUDE.md
 ### containers
 containers/docker/.env
 
+.ipynb_checkpoints/
+
 others/
 
 02_dnn_simple_pytorch/data/
