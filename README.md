@@ -23,21 +23,24 @@
 
 ## 目次
 
-- [Python チュートリアル](#python-チュートリアル)
-  - [Google Colaboratory・Pythonの使い方](#google-colaboratorypythonの使い方)
-- [初級編](#初級編)
-  - [初級1：ゼロから理解するDeep Learning](#初級1ゼロから理解するdeep-learning)
-  - [初級2：PyTorchで作るシンプルネットワーク](#初級2pytorchで作るシンプルネットワーク)
-- [中級編](#中級編)
-  - [中級1：PyTorchで作るモダンネットワーク](#中級1pytorchで作るモダンネットワーク)
-  - [中級2：PyTorchで作る深層生成モデル](#中級2pytorchで作る深層生成モデル)
-  - [中級3：PyTorchで作る再帰型ネットワーク](#中級3pytorchで作る再帰型ネットワーク)
-  - [中級4：PyTorchで作る強化学習](#中級4pytorchで作る強化学習)
-  - [中級5：PyTorchで作るグラフニューラルネットワーク](#中級5pytorchで作るグラフニューラルネットワーク)
-  - [中級6：PyTorchで作るVision Transformer (ViT)](#中級6pytorchで作るvision-transformer-vit)
-- [その他](#その他)
-  - [機械学習の基礎](#機械学習の基礎)
-  - [プログラム練習帳](#プログラム練習帳)
+- [MPRG Deep Learning Lecture Notebook](#mprg-deep-learning-lecture-notebook)
+  - [概要](#概要)
+  - [目次](#目次)
+  - [Python チュートリアル](#python-チュートリアル)
+    - [Google Colaboratory・Pythonの使い方](#google-colaboratorypythonの使い方)
+  - [初級編](#初級編)
+    - [初級1：ゼロから理解するDeep Learning](#初級1ゼロから理解するdeep-learning)
+    - [初級2：PyTorchで作るシンプルネットワーク](#初級2pytorchで作るシンプルネットワーク)
+  - [中級編](#中級編)
+    - [中級1：PyTorchで作るモダンネットワーク](#中級1pytorchで作るモダンネットワーク)
+    - [中級2：PyTorchで作る深層生成モデル](#中級2pytorchで作る深層生成モデル)
+    - [中級3：PyTorchで作る再帰型ネットワーク](#中級3pytorchで作る再帰型ネットワーク)
+    - [中級4：PyTorchで作る強化学習](#中級4pytorchで作る強化学習)
+    - [中級5：PyTorchで作るグラフニューラルネットワーク](#中級5pytorchで作るグラフニューラルネットワーク)
+    - [中級6：PyTorchで作るVision Transformer (ViT)](#中級6pytorchで作るvision-transformer-vit)
+  - [その他](#その他)
+    - [機械学習の基礎](#機械学習の基礎)
+    - [プログラム練習帳](#プログラム練習帳)
 
 ---
 
@@ -57,6 +60,9 @@
 
 ### 初級1：ゼロから理解するDeep Learning
 
+スクラッチで基本的なニューラルネットワークモデルや学習スクリプトを記述したノートブックです．
+PyTorchなどの深層学習フレームワークを使用せず，Numpyを使用して実装しています．
+
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
 | 1 | [最適化（GD, Momentum, AdaGrad, Adam)](01_dnn_scratch/optimization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/01_dnn_scratch/optimization.ipynb) |
@@ -71,6 +77,8 @@
 | 10 | [CNNによる画像認識（MNIST, Numpy実装）](01_dnn_scratch/cnn_mnist.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/01_dnn_scratch/cnn_mnist.ipynb) |
 
 ### 初級2：PyTorchで作るシンプルネットワーク
+
+
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
@@ -169,6 +177,9 @@
 ## その他
 
 ### 機械学習の基礎
+
+深層学習以前の機械学習手法について使い方をまとめたノートブックです．
+主にscikit-learnを使用して実装しています．
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
