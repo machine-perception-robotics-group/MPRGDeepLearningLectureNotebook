@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: Dockerfile
       target: base
-    image: hirakawat/lecturenotebook:v2
+    image: cumprg/lecturenotebook:v2
     container_name: lecturenotebook
     hostname: lecturenotebook
     user: "${DOCKER_UID:-1000}:${DOCKER_GID:-1000}"
@@ -32,7 +32,7 @@ services:
       context: .
       dockerfile: Dockerfile
       target: claude
-    image: hirakawat/lecturenotebook-claude:v2
+    image: cumprg/lecturenotebook-claude:v2
     container_name: lecturenotebook-claude
     hostname: lecturenotebook-claude
     user: "${DOCKER_UID:-1000}:${DOCKER_GID:-1000}"

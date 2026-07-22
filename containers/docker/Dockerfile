@@ -20,7 +20,8 @@ RUN pip install --no-cache-dir \
         scikit-learn==1.6.1 \
         pandas==2.2.2 \
         seaborn==0.13.2 \
-        umap-learn==0.5.12
+        umap-learn==0.5.12 \
+        gdown quarto-cli
 
 
 # release ports (jupyter, tensorboard)
