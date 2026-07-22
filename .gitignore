@@ -8,12 +8,16 @@ containers/docker/.env
 ### notebook checkpoints
 .ipynb_checkpoints/
 
+### basic files
+TODO.md
+
 ### 02_dnn_simple_pytorch
 02_dnn_simple_pytorch/cifar-10-python.tar.gz
 02_dnn_simple_pytorch/cifar-100-python.tar.gz
 02_dnn_simple_pytorch/cifar-10-batches-py/
 02_dnn_simple_pytorch/cifar10_png.zip
 02_dnn_simple_pytorch/cifar10_png/
+02_dnn_simple_pytorch/MNIST/
 
 
 12_gan/data/MNIST/processed/
