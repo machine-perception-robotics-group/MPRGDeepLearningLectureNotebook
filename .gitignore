@@ -21,6 +21,8 @@ TODO.md
 
 ### 11_cnn_pytorch
 11_cnn_pytorch/classification/cifar-100-python.tar.gz
+11_cnn_pytorch/detection/VOCdevkit.zip
+11_cnn_pytorch/detection/VOCdevkit/
 
 
 
