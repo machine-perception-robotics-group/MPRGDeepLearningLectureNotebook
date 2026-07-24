@@ -31,12 +31,19 @@ TODO.md
 
 
 
-12_gan/data/MNIST/processed/
-12_gan/data/MNIST/raw/
-12_gan/DenoiseMNIST/
+12_gan/data/
 12_gan/checkpoint/
 12_gan/mvtec_anomaly_detection/
 12_gan/snapshot-mvtec/
 12_gan/snapshot-mnist/
+12_gan/anomaly_detection_data.zip
+12_gan/anomaly_detection_data/
+12_gan/apple2orange.zip
+12_gan/apple2orange/
+12_gan/CycleGAN_pretrained_model.zip
+12_gan/CycleGAN_pretrained_model/
+12_gan/facades.tar.gz
+12_gan/facades/
+12_gan/*.pt
 
 
