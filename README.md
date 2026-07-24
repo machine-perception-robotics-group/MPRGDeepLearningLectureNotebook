@@ -25,6 +25,8 @@
 
 本リポジトリは，MPRGの教員および学生が有志で作成したものです．そのため，バグやミス，ライブラリ等のバージョンアップに伴う動作不具合などが含まれている場合があります．できるだけ修正対応するように努めていますが，修正等の対応が間に合わない場合があることをご了承ください．
 
+旧MPRG Deep Learning Lecture Notebook（v1）から，情報の古くなったノートブックや未完成だったノートブックなどは削除しています．古いノートブックを参照したい場合は，[release/v1.0ブランチ](https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/tree/release/v1.0)を参照してください．
+
 ## 目次
 
 - [MPRG Deep Learning Lecture Notebook](#mprg-deep-learning-lecture-notebook)
