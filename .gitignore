@@ -19,6 +19,10 @@ TODO.md
 02_dnn_simple_pytorch/cifar10_png/
 02_dnn_simple_pytorch/MNIST/
 
+### 11_cnn_pytorch
+11_cnn_pytorch/classification/cifar-100-python.tar.gz
+
+
 
 12_gan/data/MNIST/processed/
 12_gan/data/MNIST/raw/
