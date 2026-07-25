@@ -245,12 +245,12 @@ PASCAL VOC 2007を用いて，encoder-decoder型やAtrous Convolutionを用い�
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
-| 1 | [Recurrent Neural Networkによる電力予測](13_rnn/01_03_RNN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/01_03_RNN.ipynb) |
-| 2 | [Recurrent Neural NetworkによるBitcoinの価格予測](13_rnn/RNN_bitcoin.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/RNN_bitcoin.ipynb) |
-| 3 | [Encoder-Decoderによる計算機作成](13_rnn/04_Seq2Seq.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/04_Seq2Seq.ipynb) |
-| 4 | [Attention Seq2seqによる計算機作成](13_rnn/05_Attention.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/05_Attention.ipynb) |
-| 5 | [Attention Seq2seqによる日付変換](13_rnn/05_Attention_alpha.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/05_Attention_alpha.ipynb) |
-| 7 | [Convolutional LSTMを用いた動画像予測](13_rnn/07_ConvLSTM.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/07_ConvLSTM.ipynb) |
+| 1 | [Recurrent Neural Networkによる電力予測](13_rnn/rnn.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/rnn.ipynb) |
+| 2 | [Recurrent Neural NetworkによるBitcoinの価格予測](13_rnn/rnn_bitcoin.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/rnn_bitcoin.ipynb) |
+| 3 | [Encoder-Decoderによる計算機作成](13_rnn/seq2seq.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/seq2seq.ipynb) |
+| 4 | [Attention Seq2seqによる計算機作成](13_rnn/attention.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/attention.ipynb) |
+| 5 | [Attention Seq2seqによる日付変換](13_rnn/attention_date_conversion.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/attention_date_conversion.ipynb) |
+| 6 | [Convolutional LSTMを用いた動画像予測](13_rnn/convlstm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/convlstm.ipynb) |
 
 ### 中級4：PyTorchで作る強化学習
 
