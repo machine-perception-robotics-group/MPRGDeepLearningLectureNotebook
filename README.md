@@ -280,31 +280,31 @@ PASCAL VOC 2007を用いて，encoder-decoder型やAtrous Convolutionを用い�
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
-| 1 | [Transformerによる計算機作成](21_transformer/06_Transformer.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/21_transformer/06_Transformer.ipynb) |
-| 2 | [BERT](21_transformer/BERT_classification_BANKING77.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/21_transformer/BERT_classification_BANKING77.ipynb) |
+| 1 | [Transformerによる計算機作成](21_transformer/transformer.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/21_transformer/transformer.ipynb) |
+| 2 | [BERTによるテキスト分類 (Banking77)](21_transformer/bert_classification_banking77.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/21_transformer/bert_classification_banking77.ipynb) |
 
 
 ### 上級2：PyTorchで作るVision Transformerモデル
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
-| 1 | [ViTの教師あり学習（フルスクラッチ・fine-tuning）](22_vit/01_vit.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/22_vit/01_vit.ipynb) |
-| 2 | [MAE](22_vit/02_mae.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/22_vit/02_mae.ipynb) |
+| 1 | [ViTの教師あり学習（フルスクラッチ・fine-tuning）](22_vit/vit.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/22_vit/vit.ipynb) |
+| 2 | [Masked Autoencoders (MAE)](22_vit/mae.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/22_vit/mae.ipynb) |
 
 ### 上級3：PyTorchで作る視覚言語モデル
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
-| 3 | [CLIPによる画像のゼロショットクラス分類](23_vlm/03_clip.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/23_vlm/03_clip.ipynb) |
-| 4 | [CLIPと言語モデルを組み合わせたMLLM](23_vlm/04_mllm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/23_vlm/04_mllm.ipynb) |
+| 1 | [CLIPによる画像のゼロショットクラス分類](23_vlm/clip.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/23_vlm/clip.ipynb) |
+| 2 | [CLIPと言語モデルを組み合わせたMLLM](23_vlm/mllm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/23_vlm/mllm.ipynb) |
 
 ### 上級4：PyTorchで作る拡散モデル
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
-| 11 | [Diffusion Model](24_diffusion/Diffusion_Model.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/24_diffusion/Diffusion_Model.ipynb) |
-| 12 | [Denoising Diffusion Probabilistic Model](24_diffusion/denoising_diffusion_probabilistic_model.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/24_diffusion/denoising_diffusion_probabilistic_model.ipynb) |
-| 13 | [Latent Diffusion Model](24_diffusion/latent_diffusion_model.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/24_diffusion/latent_diffusion_model.ipynb) |
+| 1 | [Denoising Diffusion Probabilistic Model (DDPM)](24_diffusion/denoising_diffusion_probabilistic_model.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/24_diffusion/denoising_diffusion_probabilistic_model.ipynb) |
+| 2 | [Diffusion Model（Cosineスケジュール・FID評価）](24_diffusion/diffusion_model_fid.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/24_diffusion/diffusion_model_fid.ipynb) |
+| 3 | [Latent Diffusion Model (LDM)](24_diffusion/latent_diffusion_model.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/24_diffusion/latent_diffusion_model.ipynb) |
 
 ## その他
 
