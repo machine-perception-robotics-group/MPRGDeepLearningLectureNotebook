@@ -256,12 +256,12 @@ PASCAL VOC 2007を用いて，encoder-decoder型やAtrous Convolutionを用い�
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
-| 1 | [強化学習（Q学習とQ Network）によるCart Pole制御](14_rl/00_Q_Learning.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/14_rl/00_Q_Learning.ipynb) |
-| 2 | [DQN（クリッピング・リプレイ・ターゲットネットワーク）](14_rl/01_Deep_Q_Network.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/14_rl/01_Deep_Q_Network.ipynb) |
-| 3 | [Policy gradient （DQNの改良）](14_rl/02_Policy_gradient.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/14_rl/02_Policy_gradient.ipynb) |
-| 4 | [Actor-cltic](14_rl/03_Actor_Critic.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/14_rl/03_Actor_Critic.ipynb) |
-| 5 | [Mask-Attention ](14_rl/04_Mask_Attention.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/14_rl/04_Mask_Attention.ipynb) |
-| 6 | [DQNの応用例](14_rl/05_Deep_Q_Network_application.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/14_rl/05_Deep_Q_Network_application.ipynb) |
+| 1 | [強化学習（Q学習とQ-Network）によるCart Pole制御](14_rl/q_learning.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/14_rl/q_learning.ipynb) |
+| 2 | [Deep Q-Network（DQN）](14_rl/deep_q_network.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/14_rl/deep_q_network.ipynb) |
+| 3 | [Policy Gradient（REINFORCE）](14_rl/policy_gradient.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/14_rl/policy_gradient.ipynb) |
+| 4 | [Actor-Critic](14_rl/actor_critic.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/14_rl/actor_critic.ipynb) |
+| 5 | [Mask-Attention Actor-Critic](14_rl/mask_attention.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/14_rl/mask_attention.ipynb) |
+| 6 | [DQNの応用例（波形フィッティング）](14_rl/dqn_application.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/14_rl/dqn_application.ipynb) |
 
 ### 中級5：PyTorchで作るグラフニューラルネットワーク
 
