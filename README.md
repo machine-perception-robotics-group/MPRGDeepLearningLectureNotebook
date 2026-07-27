@@ -267,11 +267,11 @@ PASCAL VOC 2007を用いて，encoder-decoder型やAtrous Convolutionを用い�
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
-| 1 | [グラフ表現](15_gcn/01_graph.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/15_gcn/01_graph.ipynb) |
-| 2 | [GCNによるノード分類](15_gcn/02_node_classification_GCN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/15_gcn/02_node_classification_GCN.ipynb) |
-| 3 | [ST-GCNによる動作認識](15_gcn/03_action_recognition_ST_GCN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/15_gcn/03_action_recognition_ST_GCN.ipynb) |
-| 4 | [STA-GCNによる動作認識](15_gcn/04_action_recognition_STA-GCN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/15_gcn/04_action_recognition_STA-GCN.ipynb) |
-| 5 | [グラフ生成](15_gcn/05_graph_generation_DGMG.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/15_gcn/05_graph_generation_DGMG.ipynb) |
+| 1 | [グラフ表現](15_gcn/graph.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/15_gcn/graph.ipynb) |
+| 2 | [GCNによるノード分類](15_gcn/node_classification_gcn.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/15_gcn/node_classification_gcn.ipynb) |
+| 3 | [ST-GCNによる動作認識](15_gcn/action_recognition_st_gcn.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/15_gcn/action_recognition_st_gcn.ipynb) |
+| 4 | [STA-GCNによる動作認識](15_gcn/action_recognition_sta_gcn.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/15_gcn/action_recognition_sta_gcn.ipynb) |
+| 5 | [グラフ生成](15_gcn/graph_generation_dgmg.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/15_gcn/graph_generation_dgmg.ipynb) |
 
 
 ## 上級編
