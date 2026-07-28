@@ -45,9 +45,9 @@
       - [判断根拠の可視化（視覚的説明・Explainable AI）](#判断根拠の可視化視覚的説明explainable-ai)
       - [物体検出](#物体検出)
       - [セマンティックセグメンテーション](#セマンティックセグメンテーション)
-      - [マルチタスク学習（TBD）](#マルチタスク学習tbd)
-      - [モデルの効率化・知識の伝達（TBD）](#モデルの効率化知識の伝達tbd)
-      - [ラベルなしデータを活用した学習（TBD）](#ラベルなしデータを活用した学習tbd)
+      - [マルチタスク学習（修正予定）](#マルチタスク学習修正予定)
+      - [モデルの効率化・知識の伝達（修正予定）](#モデルの効率化知識の伝達修正予定)
+      - [ラベルなしデータを活用した学習（修正予定）](#ラベルなしデータを活用した学習修正予定)
     - [中級2：PyTorchで作る深層生成モデル](#中級2pytorchで作る深層生成モデル)
     - [中級3：PyTorchで作る再帰型ネットワーク](#中級3pytorchで作る再帰型ネットワーク)
     - [中級4：PyTorchで作る強化学習](#中級4pytorchで作る強化学習)
@@ -199,14 +199,14 @@ PASCAL VOC 2007を用いて，encoder-decoder型やAtrous Convolutionを用い�
 | 9 | [DeepLab v3+](11_cnn_pytorch/segmentation/deeplab_v3plus.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/11_cnn_pytorch/segmentation/deeplab_v3plus.ipynb) |
 | 10 | [HRNet](11_cnn_pytorch/segmentation/hrnet.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/11_cnn_pytorch/segmentation/hrnet.ipynb) |
 
-#### マルチタスク学習（TBD）
+#### マルチタスク学習（修正予定）
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
 | 1 | [マルチタスク基礎（分類＋回帰）](11_cnn_pytorch/09_multitask_fundamental.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/11_cnn_pytorch/09_multitask_fundamental.ipynb) |
 | 2 | [マルチタスク応用（検出＋セグメンテーション）](11_cnn_pytorch/10_multitask_applied_mtdssd.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/11_cnn_pytorch/10_multitask_applied_mtdssd.ipynb) |
 
-#### モデルの効率化・知識の伝達（TBD）
+#### モデルの効率化・知識の伝達（修正予定）
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
@@ -214,7 +214,7 @@ PASCAL VOC 2007を用いて，encoder-decoder型やAtrous Convolutionを用い�
 | 2 | [Deep Mutual Learning](11_cnn_pytorch/11_deep_mutual_learning.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/11_cnn_pytorch/11_deep_mutual_learning.ipynb) |
 | 3 | [枝刈り](11_cnn_pytorch/15_pruning.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/11_cnn_pytorch/15_pruning.ipynb) |
 
-#### ラベルなしデータを活用した学習（TBD）
+#### ラベルなしデータを活用した学習（修正予定）
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
