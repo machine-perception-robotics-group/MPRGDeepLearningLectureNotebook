@@ -45,6 +45,8 @@ TODO.md
 12_gan/snapshot-mnist/
 12_gan/anomaly_detection_data.zip
 12_gan/anomaly_detection_data/
+12_gan/anomaly_det_data.zip
+12_gan/anomaly_det_data/
 12_gan/apple2orange.zip
 12_gan/apple2orange/
 12_gan/CycleGAN_pretrained_model.zip
@@ -52,5 +54,3 @@ TODO.md
 12_gan/facades.tar.gz
 12_gan/facades/
 12_gan/*.pt
-
-
