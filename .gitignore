@@ -37,7 +37,7 @@ TODO.md
 11_cnn_pytorch/segmentation/VOCdevkit/
 
 
-
+### 12_gan
 12_gan/data/
 12_gan/checkpoint/
 12_gan/mvtec_anomaly_detection/
