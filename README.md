@@ -49,6 +49,8 @@
       - [モデルの効率化・知識の伝達（修正予定）](#モデルの効率化知識の伝達修正予定)
       - [ラベルなしデータを活用した学習（修正予定）](#ラベルなしデータを活用した学習修正予定)
     - [中級2：PyTorchで作る深層生成モデル](#中級2pytorchで作る深層生成モデル)
+      - [AutoencoderとVariational Autoencoder](#autoencoderとvariational-autoencoder)
+      - [Generative Adversarial Networks (GAN)](#generative-adversarial-networks-gan)
     - [中級3：PyTorchで作る再帰型ネットワーク](#中級3pytorchで作る再帰型ネットワーク)
     - [中級4：PyTorchで作る強化学習](#中級4pytorchで作る強化学習)
     - [中級5：PyTorchで作るグラフニューラルネットワーク](#中級5pytorchで作るグラフニューラルネットワーク)
@@ -223,6 +225,10 @@ PASCAL VOC 2007を用いて，encoder-decoder型やAtrous Convolutionを用い�
 
 ### 中級2：PyTorchで作る深層生成モデル
 
+#### AutoencoderとVariational Autoencoder
+
+AutoencoderとVariational Autoencoder，それらを活用した応用例や発展手法についてまとめています．
+
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
 | 1 | [Auto Encoder（AE）による画像の再構成](12_gan/autoencoder.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/autoencoder.ipynb) |
@@ -232,16 +238,23 @@ PASCAL VOC 2007を用いて，encoder-decoder型やAtrous Convolutionを用い�
 | 5 | [繰り返し処理による異常検知](12_gan/anomaly_detection_vae.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/anomaly_detection_vae.ipynb) |
 | 6 | [Vector Quantized VAE (VQ-VAE)](12_gan/vq_vae.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/vq_vae.ipynb) |
 | 7 | [Stochastic Quantization VAE (SQ-VAE)](12_gan/sq_vae.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/sq_vae.ipynb) |
-| 8 | [Generative Adversarial Networks (GAN)](12_gan/gan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/gan.ipynb) |
-| 9 | [Deep Convolutional GAN (DC-GAN)](12_gan/dcgan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/dcgan.ipynb) |
-| 10 | [Wasserstein GAN with Gradient Penalty (WGAN-GP)](12_gan/wgan_gp.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/wgan_gp.ipynb) |
-| 11 | [Conditional GAN](12_gan/conditional_gan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/conditional_gan.ipynb) |
-| 12 | [Conditional DC-GAN](12_gan/conditional_dcgan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/conditional_dcgan.ipynb) |
-| 13 | [pix2pix](12_gan/pix2pix.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/pix2pix.ipynb) |
-| 14 | [CycleGAN（スタイル変換）](12_gan/cycle_gan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/cycle_gan.ipynb) |
-| 15 | [Progressive Growing GAN (PGGAN)](12_gan/pggan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/pggan.ipynb) |
-| 16 | [BigGAN](12_gan/big_gan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/big_gan.ipynb) |
-| 17 | [StyleGAN](12_gan/style_gan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/style_gan.ipynb) |
+
+#### Generative Adversarial Networks (GAN)
+
+敵対的生成ネットワーク (GAN) とその発展手法についてまとめています．
+
+| No. | ノートブック | Colab |
+| :-: | :-- | :-: |
+| 1 | [Generative Adversarial Networks (GAN)](12_gan/gan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/gan.ipynb) |
+| 2 | [Deep Convolutional GAN (DC-GAN)](12_gan/dcgan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/dcgan.ipynb) |
+| 3 | [Wasserstein GAN with Gradient Penalty (WGAN-GP)](12_gan/wgan_gp.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/wgan_gp.ipynb) |
+| 4 | [Conditional GAN](12_gan/conditional_gan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/conditional_gan.ipynb) |
+| 5 | [Conditional DC-GAN](12_gan/conditional_dcgan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/conditional_dcgan.ipynb) |
+| 6 | [pix2pix](12_gan/pix2pix.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/pix2pix.ipynb) |
+| 7 | [CycleGAN（スタイル変換）](12_gan/cycle_gan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/cycle_gan.ipynb) |
+| 8 | [Progressive Growing GAN (PGGAN)](12_gan/pggan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/pggan.ipynb) |
+| 9 | [BigGAN](12_gan/big_gan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/big_gan.ipynb) |
+| 10 | [StyleGAN](12_gan/style_gan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/12_gan/style_gan.ipynb) |
 
 ### 中級3：PyTorchで作る再帰型ネットワーク
 
