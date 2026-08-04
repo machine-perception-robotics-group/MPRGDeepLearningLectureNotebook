@@ -260,11 +260,11 @@ AutoencoderとVariational Autoencoder，それらを活用した応用例や発�
 
 | No. | ノートブック | Colab |
 | :-: | :-- | :-: |
-| 1 | [Recurrent Neural Networkによる電力予測](13_rnn/rnn.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/rnn.ipynb) |
+| 1 | [Recurrent Neural Networkによる電力予測](13_rnn/rnn_power.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/rnn_power.ipynb) |
 | 2 | [Recurrent Neural NetworkによるBitcoinの価格予測](13_rnn/rnn_bitcoin.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/rnn_bitcoin.ipynb) |
 | 3 | [Encoder-Decoderによる計算機作成](13_rnn/seq2seq.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/seq2seq.ipynb) |
 | 4 | [Attention Seq2seqによる計算機作成](13_rnn/attention.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/attention.ipynb) |
-| 5 | [Attention Seq2seqによる日付変換](13_rnn/attention_date_conversion.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/attention_date_conversion.ipynb) |
+| 5 | [Attention Seq2seqによる日付変換](13_rnn/attention_date.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/attention_date.ipynb) |
 | 6 | [Convolutional LSTMを用いた動画像予測](13_rnn/convlstm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/develop-v2/13_rnn/convlstm.ipynb) |
 
 ### 中級4：PyTorchで作る強化学習

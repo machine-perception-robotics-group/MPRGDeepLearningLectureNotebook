@@ -54,3 +54,13 @@ TODO.md
 12_gan/facades.tar.gz
 12_gan/facades/
 12_gan/*.pt
+
+
+### 13_rnn
+13_rnn/BEMS_data/
+13_rnn/BEMS_data.zip
+13_rnn/BitcoinPricePrediction/
+13_rnn/BitcoinPricePrediction.zip
+13_rnn/train-images-idx3-ubyte.gz
+13_rnn/date.txt
+13_rnn/pre-train.pth
