@@ -64,3 +64,11 @@ TODO.md
 13_rnn/train-images-idx3-ubyte.gz
 13_rnn/date.txt
 13_rnn/pre-train.pth
+
+
+### 14_rl
+14_rl/video/
+
+
+### 15_gcn
+15_gcn/NTU-RGBD_data/
