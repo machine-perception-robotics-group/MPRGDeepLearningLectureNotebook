@@ -72,3 +72,8 @@ TODO.md
 
 ### 15_gcn
 15_gcn/NTU-RGBD_data/
+
+
+### 22_vit
+22_vit/cifar-10-python.tar.gz
+22_vit/cifar-10-batches-py/
