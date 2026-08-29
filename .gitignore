@@ -1,20 +1,79 @@
-others/
+### claude code
+.claude/
+CLAUDE.md
 
-02_dnn_simple_pytorch/data/
-02_dnn_simple_pytorch/root/
+### containers
+containers/docker/.env
+
+### notebook checkpoints
+.ipynb_checkpoints/
+
+### basic files
+TODO.md
+
+### 02_dnn_simple_pytorch
 02_dnn_simple_pytorch/MNIST/
+02_dnn_simple_pytorch/FashionMNIST/
 02_dnn_simple_pytorch/cifar-10-python.tar.gz
-02_dnn_simple_pytorch/cifar-100-python.tar.gz
 02_dnn_simple_pytorch/cifar-10-batches-py/
+02_dnn_simple_pytorch/cifar-100-python.tar.gz
 02_dnn_simple_pytorch/cifar-100-python/
+02_dnn_simple_pytorch/cifar10_png.zip
+02_dnn_simple_pytorch/cifar10_png/
+02_dnn_simple_pytorch/stl10_binary.tar.gz
+02_dnn_simple_pytorch/stl10_binary/
 
 
-12_gan/data/MNIST/processed/
-12_gan/data/MNIST/raw/
-12_gan/DenoiseMNIST/
+### 11_cnn_pytorch
+11_cnn_pytorch/classification/cifar-100-python.tar.gz
+11_cnn_pytorch/classification/cifar-100-python/
+11_cnn_pytorch/classification/dog.jpg
+11_cnn_pytorch/classification/imagenet_classes.txt
+11_cnn_pytorch/explanation/cifar-100-python.tar.gz
+11_cnn_pytorch/explanation/cifar-100-python/
+11_cnn_pytorch/detection/VOCdevkit.zip
+11_cnn_pytorch/detection/VOCdevkit/
+11_cnn_pytorch/segmentation/VOCdevkit.zip
+11_cnn_pytorch/segmentation/VOCdevkit/
+
+
+### 12_gan
+12_gan/data/
 12_gan/checkpoint/
 12_gan/mvtec_anomaly_detection/
 12_gan/snapshot-mvtec/
 12_gan/snapshot-mnist/
+12_gan/anomaly_detection_data.zip
+12_gan/anomaly_detection_data/
+12_gan/anomaly_det_data.zip
+12_gan/anomaly_det_data/
+12_gan/apple2orange.zip
+12_gan/apple2orange/
+12_gan/CycleGAN_pretrained_model.zip
+12_gan/CycleGAN_pretrained_model/
+12_gan/facades.tar.gz
+12_gan/facades/
+12_gan/*.pt
 
 
+### 13_rnn
+13_rnn/BEMS_data/
+13_rnn/BEMS_data.zip
+13_rnn/BitcoinPricePrediction/
+13_rnn/BitcoinPricePrediction.zip
+13_rnn/train-images-idx3-ubyte.gz
+13_rnn/date.txt
+13_rnn/pre-train.pth
+
+
+### 14_rl
+14_rl/video/
+
+
+### 15_gcn
+15_gcn/NTU-RGBD_data/
+
+
+### 22_vit
+22_vit/cifar-10-python.tar.gz
+22_vit/cifar-10-batches-py/
